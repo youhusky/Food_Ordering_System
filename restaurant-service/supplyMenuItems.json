@@ -1,0 +1,32 @@
+[
+  {
+    "restaurantId": "11111111-1111-1111-11111111111111111",
+    "name": "menuItem 1",
+    "description": "description 1",
+    "price": "11"
+  },
+  {
+    "restaurantId": "11111111-1111-1111-11111111111111111",
+    "name": "menuItem 2",
+    "description": "description 2",
+    "price": "12"
+  },
+  {
+    "restaurantId": "11111111-1111-1111-11111111111111111",
+    "name": "menuItem 3",
+    "description": "description 3",
+    "price": "13"
+  },
+  {
+    "restaurantId": "11111111-1111-1111-11111111111111111",
+    "name": "menuItem 4",
+    "description": "description 4",
+    "price": "14"
+  },
+  {
+    "restaurantId": "11111111-1111-1111-11111111111111111",
+    "name": "menuItem 5",
+    "description": "description 5",
+    "price": "15"
+  }
+]

@@ -1,0 +1,23 @@
+# Test Order APIs
+
+## Test Order creation
+POST localhost:8002/api/restaurants/11111111-1111-1111-11111111111111111/orders
+{
+    "restaurantId": "11111111-1111-1111-11111111111111111",
+	"items": [
+	    {
+    		"name": "menuItem 1",
+    		"price": 11,
+    		"quantity": 2
+    	},
+    	{
+    		"name": "menuItem 2",
+    		"price": 12,
+    		"quantity": 3
+    	}],
+    "userInfo": {
+        "firstName": "first1",
+        "lastName": "last1",
+        "phone": "14081234567"
+    }
+}

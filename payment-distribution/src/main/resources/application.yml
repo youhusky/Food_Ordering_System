@@ -1,0 +1,9 @@
+server:
+  port: 8003
+spring:
+  application:
+    name: payment-distribution
+  cloud:
+    stream:
+      bindings:
+        output: payments
